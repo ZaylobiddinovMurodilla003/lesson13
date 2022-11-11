@@ -1,0 +1,46 @@
+form {
+  font-family: sans-serif;
+  width: 600px;
+  height: 600px;
+  margin: 5% 20% 10%;
+  background-color: white;
+  border: 1px solid black;
+  margin: 0 auto;
+  border-radius: 20px;
+  text-transform: capitalize;
+  text-align: center;
+}
+form label {
+  margin: 10px;
+}
+
+input,
+textarea {
+  margin: 10px;
+  width: 350px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.label-message {
+  padding: 10px;
+}
+/* textarea {
+  padding-left: 150px;
+  width: 200px;
+  padding-right: 10px;
+  margin-left: 20px;
+} */
+button {
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgb(7, 163, 72);
+  width: 100px;
+  color: white;
+  height: 30px;
+  border: none;
+  line-height: 30px;
+}
+
+body {
+  background-color: rgb(171, 164, 164);
+}

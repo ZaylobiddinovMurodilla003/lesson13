@@ -1,0 +1,56 @@
+div {
+  padding: 20px;
+}
+
+form {
+  background-color: white;
+  margin: 20px auto;
+  padding: 10px;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+input,
+button {
+  margin: 10px;
+  padding: 20px;
+  width: 500px;
+  border: 2px solid black;
+  height: 20px;
+  border-radius: 5px;
+  max-width: 1000;
+  min-width: 50;
+}
+/* button {
+  border-radius: 10px;
+  background-color: rgb(96, 119, 247);
+  color: white;
+  width: 100px;
+} */
+#checkbox {
+  width: 15px;
+  margin-top: 20px;
+}
+#label {
+  margin-top: 20px;
+}
+button {
+  background-color: blue;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+  height: 50px;
+  line-height: 10px;
+  width: 550px;
+  border: none;
+}
+a {
+  color: black;
+}
+
+.div {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+}
